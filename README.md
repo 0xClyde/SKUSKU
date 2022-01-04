@@ -1,5 +1,5 @@
 
-# The DivineFarm SupplyCchain Directory
+# The Divine Farm SupplyChain Directory
 
 The directory is a truffle project that contains the required
 contract, migration and test files.
