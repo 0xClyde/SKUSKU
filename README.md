@@ -8,10 +8,9 @@ contract, migration and test files.
 
 ### State variables
 
-    The contract have an owner, of type address that is public.
-   
+   - [ ] The contract have an owner, of type address that is public.
+   - [ ] Should have an skuCount
 
-    Should have an skuCount
   
 
     The contract will keep track of the [sku](https://en.wikipedia.org/wiki/Stock_keeping_unit)s in our supply
@@ -38,5 +37,6 @@ How do we describe an item in our supply chain? It is a union of properties:
 ### NeverForget
 
   - [ ] `THE SEED IS THE MASTER TECHNOLOGY`
+  - [ ] Love is The MetaSeed
 
 
