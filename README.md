@@ -1,8 +1,9 @@
 
-# The Directory
+# The DivineFarm SupplyCchain Directory
 
 The directory is a truffle project that contains the required
 contract, migration and test files.
+**Nota**: You can Test the contract and the changing states on www.remix.ethereum.org/ 
 
 
 ### State variables
@@ -10,17 +11,12 @@ contract, migration and test files.
     The contract have an owner, of type address that is public.
    
 
-    </details>
-
-  - [ ] should have an skuCount
-    <details><summary>:book:</summary>
+    Should have an skuCount
+  
 
     The contract will keep track of the [sku](https://en.wikipedia.org/wiki/Stock_keeping_unit)s in our supply
     chain. Each item for sale will have a unique sku number. 
 
-
-
-    </details>
 
 ### enum State
 
@@ -39,5 +35,8 @@ How do we describe an item in our supply chain? It is a union of properties:
 `name`, `sku`, `price`, `state`, `seller` and `buyer`. We can use a Solidity
 `struct` to model this Item.
 
+### NeverForget
+
+  - [ ] `THE SEED IS THE MASTER TECHNOLOGY`
 
 
